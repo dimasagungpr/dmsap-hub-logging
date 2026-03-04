@@ -6,8 +6,8 @@ Public publish output for logging demo UI.
 - `1.0.0`
 
 ## Main file
-- `ui.lua`
+- `logging.lua`
 
 This file is published from private source:
-- `../dmsap-hub-logging-private/ui.lua`
+- `../dmsap-hub-logging-private/logging.lua`
 
